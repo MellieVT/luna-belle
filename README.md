@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm the dev behind [Lolibrary](https://lolibrary.org). I used to work for [Monzo](https://monzo.com).
+
+You can follow me on Twitter [@ameliaikeda](https://twitter.com/ameliaikeda) or check out [my personal site](https://dorks.io).
+
+
+💖 🧡 💛 💚 💙 💜
+
 <!--
 **luna-belle/luna-belle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
